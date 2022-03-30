@@ -1,0 +1,24 @@
+{
+  "name": "Discord_image_to_text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "discord.js": "^13.1.0",
+    "express": "^4.17.3",
+    "ffmpeg-extract-frames": "^2.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^10.0.1",
+    "image-pixels": "^2.2.2",
+    "node": "^16.9.1",
+    "sharp": "^0.30.3",
+    "ytdl-core": "^4.11.0"
+  }
+}
